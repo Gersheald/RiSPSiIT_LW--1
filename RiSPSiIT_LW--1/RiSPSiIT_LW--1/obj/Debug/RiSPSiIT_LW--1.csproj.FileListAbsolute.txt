@@ -1,0 +1,10 @@
+C:\Users\gersh\Desktop\Visual_Studio_Projects\RiSPSiIT_LW--1\RiSPSiIT_LW--1\bin\Debug\RiSPSiIT_LW--1.exe.config
+C:\Users\gersh\Desktop\Visual_Studio_Projects\RiSPSiIT_LW--1\RiSPSiIT_LW--1\bin\Debug\RiSPSiIT_LW--1.exe
+C:\Users\gersh\Desktop\Visual_Studio_Projects\RiSPSiIT_LW--1\RiSPSiIT_LW--1\bin\Debug\RiSPSiIT_LW--1.pdb
+C:\Users\gersh\Desktop\Visual_Studio_Projects\RiSPSiIT_LW--1\RiSPSiIT_LW--1\obj\Debug\RiSPSiIT_LW--1.csproj.AssemblyReference.cache
+C:\Users\gersh\Desktop\Visual_Studio_Projects\RiSPSiIT_LW--1\RiSPSiIT_LW--1\obj\Debug\RiSPSiIT_LW__1.Form1.resources
+C:\Users\gersh\Desktop\Visual_Studio_Projects\RiSPSiIT_LW--1\RiSPSiIT_LW--1\obj\Debug\RiSPSiIT_LW__1.Properties.Resources.resources
+C:\Users\gersh\Desktop\Visual_Studio_Projects\RiSPSiIT_LW--1\RiSPSiIT_LW--1\obj\Debug\RiSPSiIT_LW--1.csproj.GenerateResource.cache
+C:\Users\gersh\Desktop\Visual_Studio_Projects\RiSPSiIT_LW--1\RiSPSiIT_LW--1\obj\Debug\RiSPSiIT_LW--1.csproj.CoreCompileInputs.cache
+C:\Users\gersh\Desktop\Visual_Studio_Projects\RiSPSiIT_LW--1\RiSPSiIT_LW--1\obj\Debug\RiSPSiIT_LW--1.exe
+C:\Users\gersh\Desktop\Visual_Studio_Projects\RiSPSiIT_LW--1\RiSPSiIT_LW--1\obj\Debug\RiSPSiIT_LW--1.pdb
