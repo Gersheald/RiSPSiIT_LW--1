@@ -24,7 +24,7 @@ namespace RiSPSiIT_LW__1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Double a, b;
+            double a, b;
             a = Convert.ToDouble(textBox1.Text);
             if (a > 0)
             {
@@ -41,7 +41,7 @@ namespace RiSPSiIT_LW__1
         private void button2_Click(object sender, EventArgs e)
         {
 
-            Double a, c;
+            double a, c;
             a = Convert.ToDouble(textBox1.Text);
             if (a > 0)
             {
